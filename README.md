@@ -1,2 +1,0 @@
-# rickygyy.github.io
-welcome
