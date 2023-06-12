@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Ricky</title>
-        <link>https://example.com/post/</link>
-        <description>Recent content in Posts on Ricky</description>
+        <title>HomeLab on Ricky</title>
+        <link>https://example.com/categories/homelab/</link>
+        <description>Recent content in HomeLab on Ricky</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/homelab/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>家庭服务器搭建</title>
         <link>https://example.com/p/%E5%AE%B6%E5%BA%AD%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/</link>
         <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
