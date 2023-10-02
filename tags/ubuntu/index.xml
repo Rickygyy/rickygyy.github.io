@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Ubuntu on Ricky</title>
+        <link>https://example.com/tags/ubuntu/</link>
+        <description>Recent content in Ubuntu on Ricky</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>家庭服务器搭建</title>
+        <link>https://example.com/p/%E5%AE%B6%E5%BA%AD%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/</link>
+        <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/%E5%AE%B6%E5%BA%AD%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/</guid>
+        <description>&lt;h1 id=&#34;homelab玩的是啥&#34;&gt;HomeLab玩的是啥&lt;/h1&gt;
+&lt;h2 id=&#34;from-gpt4&#34;&gt;From GPT4&lt;/h2&gt;
+&lt;p&gt;HomeLab（家庭实验室）通常指的是在家庭环境中设置的计算机硬件和软件环境，用于学习、测试、实验和开发。其具体形式因个人需求和兴趣而异，可能包括服务器、网络设备、存储系统、虚拟机等等。&lt;/p&gt;
+&lt;p&gt;以下是一些人们可能会建立HomeLab的原因：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;学习和教育&lt;/strong&gt;：HomeLab 是一种极好的自我教育工具，它可以帮助你学习并掌握新的技术和技能，比如网络设计、服务器管理、虚拟化、安全性等等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;实验和开发&lt;/strong&gt;：HomeLab 可以提供一个相对安全的环境，让你可以自由地实验新的硬件和软件配置，开发和测试新的应用程序，而不用担心影响到商业或者工作环境。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;个人用途&lt;/strong&gt;：HomeLab 也可以用于一些个人用途，比如建立私人的云存储服务，媒体服务器，家庭自动化系统等等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;总的来说，HomeLab 是一个对技术有热情的人们来说的有价值的投资，它可以帮助你增加技能，试验新的想法，甚至可以提供一些有趣和实用的家庭服务。&lt;/p&gt;
+&lt;h2 id=&#34;折腾&#34;&gt;&lt;strong&gt;折腾&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Bushcraft&lt;/code&gt;（丛林技艺）在当今如此发达的工业化社会为什么还会有人愿意回到荒野，开始搭建破烂的小木屋呢？&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;HomeLab&lt;/code&gt; 和 &lt;code&gt;Bushcraft&lt;/code&gt; 类似，在现在云服务十分发达的社会，为什么不直接用网上的云盘、为什么不直接使用流媒体来观看视频、为什么不直接用厂商的提供的服务等等。&lt;/p&gt;
+&lt;p&gt;归根结底可能我们都是爱折腾的人，享受创造带来的乐趣。作为和大多数人不同的异类，我们享受自己折腾时不断来解决自己遇到的问题。&lt;/p&gt;
+&lt;h1 id=&#34;硬件&#34;&gt;硬件&lt;/h1&gt;
+&lt;p&gt;任何能正常启动的计算机，一个1万元的电脑和1千元的电脑在搭建服务上来带的快乐是一样的。不要最求完美，而是找到最适合自己的使用场景的配置，才会真正了解自己的需求，也不会为了一些用不上的功能而困扰。&lt;/p&gt;
+&lt;h1 id=&#34;镜像构建&#34;&gt;镜像构建&lt;/h1&gt;
+&lt;h2 id=&#34;系统选择&#34;&gt;系统选择&lt;/h2&gt;
+&lt;h2 id=&#34;镜像烧录&#34;&gt;镜像烧录&lt;/h2&gt;
+&lt;h2 id=&#34;系统配置&#34;&gt;系统配置&lt;/h2&gt;
+&lt;h1 id=&#34;常见玩法&#34;&gt;常见玩法&lt;/h1&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

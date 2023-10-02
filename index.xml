@@ -83,7 +83,40 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;h1 id=&#34;你好我是桂义勇&#34;&gt;你好，我是桂义勇&lt;/h1&gt;
+&lt;p&gt;我的英文名是Ricky，目前居住在北京。在非工作、非休息时间，我喜欢折腾有意思的事情，分享、学习和创造是博客的初衷。&lt;/p&gt;
+&lt;h2 id=&#34;工作&#34;&gt;工作&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.jd.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;京东&lt;/a&gt; 算法开发工程师 2023.9～至今
+&lt;ul&gt;
+&lt;li&gt;账号异常访问分析&lt;/li&gt;
+&lt;li&gt;数据水印&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.jd.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;京东&lt;/a&gt; 后端开发工程师 2021.7～2023.9
+&lt;ul&gt;
+&lt;li&gt;网页水印&lt;/li&gt;
+&lt;li&gt;文档水印&lt;/li&gt;
+&lt;li&gt;数据分类分级&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.jd.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;京东&lt;/a&gt; 软件开发工程师（实习） 2020.9～2021.5
+&lt;ul&gt;
+&lt;li&gt;权限管理平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;教育&#34;&gt;教育&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bistu.edu.cn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;北京信息科技大学&lt;/a&gt; 计算机科学与技术 2017～2021&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.hndinganny.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;海南华侨中学&lt;/a&gt; 2014～2017&lt;/li&gt;
+&lt;li&gt;海南白驹学校 2012～2014&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         
