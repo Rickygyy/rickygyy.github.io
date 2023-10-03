@@ -1,124 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Ricky</title>
-        <link>https://example.com/</link>
-        <description>Recent content on Ricky</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>家庭服务器搭建</title>
-        <link>https://example.com/p/%E5%AE%B6%E5%BA%AD%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/</link>
-        <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+  <channel>
+    <title>Ricky</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Ricky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Ricky</copyright>
+    <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>家庭服务器搭建</title>
+      <link>/post/home-lab/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/home-lab/</guid>
+      <description>
         
-        <guid>https://example.com/p/%E5%AE%B6%E5%BA%AD%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/</guid>
-        <description>&lt;h1 id=&#34;homelab玩的是啥&#34;&gt;HomeLab玩的是啥&lt;/h1&gt;
-&lt;h2 id=&#34;from-gpt4&#34;&gt;From GPT4&lt;/h2&gt;
-&lt;p&gt;HomeLab（家庭实验室）通常指的是在家庭环境中设置的计算机硬件和软件环境，用于学习、测试、实验和开发。其具体形式因个人需求和兴趣而异，可能包括服务器、网络设备、存储系统、虚拟机等等。&lt;/p&gt;
-&lt;p&gt;以下是一些人们可能会建立HomeLab的原因：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;学习和教育&lt;/strong&gt;：HomeLab 是一种极好的自我教育工具，它可以帮助你学习并掌握新的技术和技能，比如网络设计、服务器管理、虚拟化、安全性等等。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;实验和开发&lt;/strong&gt;：HomeLab 可以提供一个相对安全的环境，让你可以自由地实验新的硬件和软件配置，开发和测试新的应用程序，而不用担心影响到商业或者工作环境。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;个人用途&lt;/strong&gt;：HomeLab 也可以用于一些个人用途，比如建立私人的云存储服务，媒体服务器，家庭自动化系统等等。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;总的来说，HomeLab 是一个对技术有热情的人们来说的有价值的投资，它可以帮助你增加技能，试验新的想法，甚至可以提供一些有趣和实用的家庭服务。&lt;/p&gt;
-&lt;h2 id=&#34;折腾&#34;&gt;&lt;strong&gt;折腾&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;Bushcraft&lt;/code&gt;（丛林技艺）在当今如此发达的工业化社会为什么还会有人愿意回到荒野，开始搭建破烂的小木屋呢？&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;HomeLab&lt;/code&gt; 和 &lt;code&gt;Bushcraft&lt;/code&gt; 类似，在现在云服务十分发达的社会，为什么不直接用网上的云盘、为什么不直接使用流媒体来观看视频、为什么不直接用厂商的提供的服务等等。&lt;/p&gt;
-&lt;p&gt;归根结底可能我们都是爱折腾的人，享受创造带来的乐趣。作为和大多数人不同的异类，我们享受自己折腾时不断来解决自己遇到的问题。&lt;/p&gt;
-&lt;h1 id=&#34;硬件&#34;&gt;硬件&lt;/h1&gt;
-&lt;p&gt;任何能正常启动的计算机，一个1万元的电脑和1千元的电脑在搭建服务上来带的快乐是一样的。不要最求完美，而是找到最适合自己的使用场景的配置，才会真正了解自己的需求，也不会为了一些用不上的功能而困扰。&lt;/p&gt;
-&lt;h1 id=&#34;镜像构建&#34;&gt;镜像构建&lt;/h1&gt;
-&lt;h2 id=&#34;系统选择&#34;&gt;系统选择&lt;/h2&gt;
-&lt;h2 id=&#34;镜像烧录&#34;&gt;镜像烧录&lt;/h2&gt;
-&lt;h2 id=&#34;系统配置&#34;&gt;系统配置&lt;/h2&gt;
-&lt;h1 id=&#34;常见玩法&#34;&gt;常见玩法&lt;/h1&gt;
-</description>
-        </item>
-        <item>
-        <title>归档</title>
-        <link>https://example.com/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+          &lt;img src=&#34;/img/net.png&#34;/&gt;
+          
         
-        <guid>https://example.com/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title></title>
-        <link>https://example.com/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;links&lt;/span&gt;:
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;GitHub&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;description&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;website&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://github.com&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;TypeScript&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;description&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;website&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;ts-logo-128.jpg&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title></title>
-        <link>https://example.com/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+          \&#34;折腾\&#34;永无止境
+          
         
-        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;h1 id=&#34;你好我是桂义勇&#34;&gt;你好，我是桂义勇&lt;/h1&gt;
-&lt;p&gt;我的英文名是Ricky，目前居住在北京。在非工作、非休息时间，我喜欢折腾有意思的事情，分享、学习和创造是博客的初衷。&lt;/p&gt;
-&lt;h2 id=&#34;工作&#34;&gt;工作&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.jd.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;京东&lt;/a&gt; 算法开发工程师 2023.9～至今
-&lt;ul&gt;
-&lt;li&gt;账号异常访问分析&lt;/li&gt;
-&lt;li&gt;数据水印&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.jd.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;京东&lt;/a&gt; 后端开发工程师 2021.7～2023.9
-&lt;ul&gt;
-&lt;li&gt;网页水印&lt;/li&gt;
-&lt;li&gt;文档水印&lt;/li&gt;
-&lt;li&gt;数据分类分级&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.jd.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;京东&lt;/a&gt; 软件开发工程师（实习） 2020.9～2021.5
-&lt;ul&gt;
-&lt;li&gt;权限管理平台&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;教育&#34;&gt;教育&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bistu.edu.cn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;北京信息科技大学&lt;/a&gt; 计算机科学与技术 2017～2021&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.hndinganny.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;海南华侨中学&lt;/a&gt; 2014～2017&lt;/li&gt;
-&lt;li&gt;海南白驹学校 2012～2014&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
+        </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
         
-    </channel>
+          
+          
+          
+        
+        
+        
+           Hello, I&amp;rsquo;m Ricky! # 我的英文名是Ricky，目前居住在北京。在非工作、非休息时间，我喜欢折腾有意思的事情，分享、学习和创造是写博客的初衷。
+工作 # 2023.9～至今 京东 算法开发工程师 2021.7～2023.9 京东 后端开发工程师 2020.9～2021.5(实习) 京东 软件开发工程师 教育 # 2017～2021 北京信息科技大学 计算机科学与技术 2014～2017 海南华侨中学 2012～2014 海南白驹学校 
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
 </rss>

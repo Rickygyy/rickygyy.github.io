@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Tags on Ricky</title>
-        <link>https://example.com/tags/</link>
-        <description>Recent content in Tags on Ricky</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Ubuntu</title>
-        <link>https://example.com/tags/ubuntu/</link>
-        <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/ubuntu/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>服务器</title>
-        <link>https://example.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
-        <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Tags on Ricky</title>
+    
+    
+    
+    <link>/tags/</link>
+    <description>Recent content in Tags on Ricky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Ricky</copyright>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
 </rss>

@@ -2,40 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>/post/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/homelab/</loc>
+    <loc>/post/home-lab/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+    <loc>/archive/</loc>
   </url><url>
-    <loc>https://example.com/tags/ubuntu/</loc>
-    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/p/%E5%AE%B6%E5%BA%AD%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/page/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/</loc>
-  </url><url>
-    <loc>https://example.com/search/</loc>
-  </url><url>
-    <loc>https://example.com/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
